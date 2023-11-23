@@ -1,0 +1,11 @@
+{
+    "name": "pc/phphw5",
+    "autoload": {
+        "psr-4": {
+            "Pc\\Phphw5\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
